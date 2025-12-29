@@ -1,4 +1,5 @@
 
+# src/eda.py
 import matplotlib.pyplot as plt
 
 def plot_class_distribution(y, title="Class Distribution"):
