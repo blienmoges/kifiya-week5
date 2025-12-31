@@ -1,7 +1,7 @@
-pandas==2.1.0
-numpy==1.26.0
-scikit-learn==1.3.2
-matplotlib==3.9.1
-seaborn==0.12.3
-imblearn==0.11.1
-jupyter==2.4.0
+pandas;
+numpy;
+scikit - learn;
+matplotlib;
+seaborn;
+imblearn;
+jupyter;
